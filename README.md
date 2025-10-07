@@ -23,8 +23,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit
 ⚡ Installation
 
 Clone the repository:
-
-git clone https://github.com/your-username/Water-Quality-Prediction-Dashboard.git
+https://github.com/verugadhwal-beep/Water-Quality-Prediction-Dashboard.git
 
 
 Navigate to the project folder:
